@@ -25,4 +25,4 @@ I'm a senior @ IMSA
 
 ---
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=SVPandya&theme=black-ice)](https://git.io/streak-stats)-->
-![GitHub Stats](https://streak-stats.demolab.com?user=SVPandya&theme=black-ice) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SVPandya&theme=black-ice)](https://git.io/streak-stats)
