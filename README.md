@@ -12,4 +12,17 @@ I'm a senior @ IMSA
 </p>
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cs,cpp,python,java,gcp,php,mysql,latex,opencv,react,tensorflow,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cs,cpp,python,java,gcp,php,mysql,opencv,react,tensorflow,nodejs)](https://skillicons.dev)
+
+
+
+### ⚡ quick intro
+
+- 🏫 senior @ **IMSA** — exploring AI, accessibility tech, and embedded systems  
+- 🤖 love working at the intersection of **machine learning** + **hardware**  
+- 🧪 been researching everything from **drug optimization** to **social skill training**  
+- 💡 thrive on weird project ideas, late-night code sprints, and solder burns
+
+---
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=SVPandya&theme=black-ice)](https://git.io/streak-stats)-->
+![GitHub Stats](https://streak-stats.demolab.com?user=SVPandya&theme=black-ice) 
