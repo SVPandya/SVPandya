@@ -1,6 +1,6 @@
 <h1 align="center">hey, i’m svar 👋</h1>
 <p align="center">
-    senior @ <strong>IMSA</strong><br>
+    cs @ <strong>uiuc</strong><br>
     AI/ML | Software Engineering | Quantum Computing <br>
 </p>
 
